@@ -1,0 +1,12 @@
+body {
+    background-color: darkseagreen;
+}
+
+h1, h2, <uniquifier> {
+    .boldonse-regular {
+        font-family: "Boldonse", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+  }
